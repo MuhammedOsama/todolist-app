@@ -16,7 +16,7 @@ const TodoItems = (props) => {
             );
         })
     ) : (
-        <p>There is item to show.</p>
+        <p>There is no item to show.</p>
     )
 
     return(
